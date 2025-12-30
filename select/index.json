@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Clean Air",
+  "base_artist": "Laufey",
+  "createdAt": "2025-12-30T07:19:41.511954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clean Air",
+      "artist": "Hand Habits",
+      "has_synced": true,
+      "path": "select/01_Clean_Air_Hand_Habits.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Clean Air Hybrid Electric Bus",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/02_Clean_Air_Hybrid_Electric_Bus_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Clean Air",
+      "artist": "Tom Nehls",
+      "has_synced": false,
+      "path": "select/03_Clean_Air_Tom_Nehls.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Clean Air",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/04_Clean_Air_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clean Air",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/05_Clean_Air_Laufey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clean Air",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Clean_Air_Laufey.txt"
+    }
+  ]
+}
